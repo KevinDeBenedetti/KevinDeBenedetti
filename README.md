@@ -1,25 +1,19 @@
-### Hi there 👋
+Hi, I'm 🖖
+Kevin De Benedetti 💻
 
-<!--
-**KevinDeBenedetti/KevinDeBenedetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Developer Web Rookie 🐣
 
-Here are some ideas to get you started:
+## Langages
+* HTML 
+* CSS
+* JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Web Design
+* Figma
 
-**TEXTE EN GRAS**
-#Hello you 
+## OS
+* Mac OS
+* Linux
+* Windows
 
-Developer Web 🐣
-
-###Coucou 
-
-C'est une modification en DWWM
+<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
