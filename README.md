@@ -15,3 +15,7 @@ Kevin De Benedetti 💻
 * Mac OS
 * Linux
 * Windows
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
