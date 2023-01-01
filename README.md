@@ -1,7 +1,7 @@
 Hi, I'm 🖖
-Kevin De Benedetti 💻
+Kevin  💻
 
-# Developer Web Rookie 🐣
+# Developer Web 
 
 ## Langages
 * HTML 
