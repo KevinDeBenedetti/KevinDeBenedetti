@@ -3,13 +3,13 @@ Kevin  💻
 
 # Web developer Fullstack
 
-## Front-End
+## ![FRONTEND](https://img.shields.io/badge/-FRONTEND-9AB090?style=for-the-badge)
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 
-### Frameworks
+### ![FRAMEWORKS](https://img.shields.io/badge/-FRAMEWORKS-9AB090?style=for-the-badge)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 
