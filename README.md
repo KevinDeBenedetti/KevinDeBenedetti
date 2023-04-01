@@ -3,14 +3,12 @@ Kevin  💻
 
 # Web developer Fullstack
 
-## ![FRONTEND](https://img.shields.io/badge/-FRONTEND-474947?style=for-the-badge)
+![FRONTEND](https://img.shields.io/badge/-FRONTEND-474947?style=for-the-badge)
 
 ![LANGUAGES](https://img.shields.io/badge/-LANGUAGES-6A6A69?style=flat-square)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-
----
 
 ![FRAMEWORKS](https://img.shields.io/badge/-FRAMEWORKS-6A6A69?style=flat-square)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square)
@@ -19,7 +17,7 @@ Kevin  💻
 
 ---
 
-## ![BACKEND](https://img.shields.io/badge/-BACKEND-474947?style=for-the-badge)
+![BACKEND](https://img.shields.io/badge/-BACKEND-474947?style=for-the-badge)
 
 ![LANGUAGES](https://img.shields.io/badge/-LANGUAGES-6A6A69?style=flat-square)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
@@ -30,7 +28,7 @@ Kevin  💻
 
 ---
 
-## ![DATABASE](https://img.shields.io/badge/-DATABASE-474947?style=for-the-badge)
+![DATABASE](https://img.shields.io/badge/-DATABASE-474947?style=for-the-badge)
 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
 ![iTerm2 Badge](https://img.shields.io/badge/iTerm2-000?logo=iterm2&logoColor=fff&style=flat-square)
@@ -40,19 +38,19 @@ Kevin  💻
 
 ---
 
-## ![SERVER](https://img.shields.io/badge/-SERVER-474947?style=for-the-badge) 
+![SERVER](https://img.shields.io/badge/-SERVER-474947?style=for-the-badge) 
 
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat-square)
 
 ---
 
-## ![CMS](https://img.shields.io/badge/-CMS-474947?style=for-the-badge)
+![CMS](https://img.shields.io/badge/-CMS-474947?style=for-the-badge)
 
 ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat-square)
 
 ---
 
-## ![OS](https://img.shields.io/badge/-OS-474947?style=for-the-badge)
+![OS](https://img.shields.io/badge/-OS-474947?style=for-the-badge)
 
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat-square)
 
@@ -65,14 +63,14 @@ Kevin  💻
 
 ---
 
-## ![IDE](https://img.shields.io/badge/-IDE-474947?style=for-the-badge)
+![IDE](https://img.shields.io/badge/-IDE-474947?style=for-the-badge)
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square)
 ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat-square)
 
 ---
 
-## ![DESIGN](https://img.shields.io/badge/-DESIGN-474947?style=for-the-badge)
+![DESIGN](https://img.shields.io/badge/-DESIGN-474947?style=for-the-badge)
 
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square)
 
