@@ -24,7 +24,6 @@ Kevin  💻
 
 ## ![OS](https://img.shields.io/badge/-OS-474947?style=for-the-badge) 
 ![macOS Badge](https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat-square) 
-
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat-square) ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square) ![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat-square) ![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=flat-square) ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat-square)
 
 ## ![IDE](https://img.shields.io/badge/-IDE-474947?style=for-the-badge) 
