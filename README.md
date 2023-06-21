@@ -1,6 +1,6 @@
 Hi, I'm 🖖 Kevin  💻
 
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)(https://www.kevindb.dev/)
+![Portfolio](https://www.kevindb.dev/?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 # Web developer Fullstack
 
