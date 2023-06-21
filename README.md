@@ -1,4 +1,5 @@
 Hi, I'm 🖖 Kevin  💻
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.kevindb.dev/)
 
 # Web developer Fullstack
@@ -9,7 +10,7 @@ Hi, I'm 🖖 Kevin  💻
 ![FRAMEWORKS](https://img.shields.io/badge/-FRAMEWORKS-6A6A69?style=flat-square) ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat-square) ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square) ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square)
 
 ## ![BACKEND](https://img.shields.io/badge/-BACKEND-474947?style=for-the-badge) 
-![LANGUAGES](https://img.shields.io/badge/-LANGUAGES-6A6A69?style=flat-square) ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square) 
+![LANGUAGES](https://img.shields.io/badge/-LANGUAGES-6A6A69?style=flat-square) ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square) ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square)
 
 ![ENVIRONMENTS](https://img.shields.io/badge/-ENVIRONMENTS-6A6A69?style=flat-square) ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square) ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat-square)
 
