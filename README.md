@@ -2,7 +2,7 @@ Hi, I'm 🖖 Kevin  💻
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.kevindb.dev/)
 
-# Web developer Fullstack
+# Fullstack developer
 
 ## ![FRONTEND](https://img.shields.io/badge/-FRONTEND-474947?style=for-the-badge) 
 ![LANGUAGES](https://img.shields.io/badge/-LANGUAGES-6A6A69?style=flat-square) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square) ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square) 
