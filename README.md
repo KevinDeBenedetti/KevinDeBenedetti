@@ -3,10 +3,7 @@
 
 # Hi ! I'm Kevin Web developer
 
-![Top Langs](https://github-readme-stats-beta-virid-33.vercel.app/api/top-langs/?username=kevindebenedetti&layout=compact&hide=html,css,smarty,shell,twig)
-
-![GitHub Stats](https://github-readme-stats-beta-virid-33.vercel.app/api?username=kevindebenedetti)
-
-<img align="center" src="https://github-readme-stats-beta-virid-33.vercel.app/api/top-langs/?username=kevindebenedetti&hide=html,css,smarty,shell,twig" />
-
-<img align="center" src="https://github-readme-stats-beta-virid-33.vercel.app/api/?username=kevindebenedetti" />
+<div style="display: flex; align-items: center; gap: 1rem;">
+    <img style="height: 100%;" src="https://github-readme-stats-beta-virid-33.vercel.app/api/top-langs/?username=kevindebenedetti&hide=html,css,smarty,shell,twig,javascript,scss,mdx,dockerfile,vue" />
+    <img src="https://github-readme-stats-beta-virid-33.vercel.app/api/?username=kevindebenedetti" />
+</div>
