@@ -8,4 +8,4 @@
     <img src="https://github-readme-stats-beta-virid-33.vercel.app/api/?username=kevindebenedetti&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 <br>
-<img src="https://github-readme-stats-beta-virid-33.vercel.app/api/wakatime/?username=kevindebenedetti&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-beta-virid-33.vercel.app/api/wakatime?username=kevindebenedetti&show_icons=true&theme=tokyonight&hide_border=true" />
