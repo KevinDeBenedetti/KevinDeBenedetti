@@ -4,3 +4,5 @@
 # Hi ! I'm Kevin Web developer
 
 ![Top Langs](https://github-readme-stats-beta-virid-33.vercel.app/api/top-langs/?username=kevindebenedetti&layout=compact&hide=html,css,smarty,shell,twig)
+
+![GitHub Stats](https://github-readme-stats-beta-virid-33.vercel.app/api?username=kevindebenedetti)]
