@@ -9,4 +9,4 @@
 
 <img align="center" src="https://github-readme-stats-beta-virid-33.vercel.app/api/top-langs/?username=kevindebenedetti&hide=html,css,smarty,shell,twig" />
 
-<img align="center" src="https://github-readme-stats-beta-virid-33.vercel.app/api/pin/?username=kevindebenedetti&repo=convoychat" />
+<img align="center" src="https://github-readme-stats-beta-virid-33.vercel.app/api/pin/?username=kevindebenedetti" />
