@@ -11,6 +11,6 @@
   </tr>
 </table>
 
-<div>
+<div style="text-align: center;">
     <img align="center" src="https://github-readme-stats-beta-virid-33.vercel.app/api/wakatime?username=kevindebenedetti&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
