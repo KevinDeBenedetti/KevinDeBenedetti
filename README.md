@@ -4,7 +4,7 @@
 </div>
 <img src="https://github-readme-stats-beta-virid-33.vercel.app/api/wakatime?username=kevindebenedetti&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<table style="border: none !important;">
+<table cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://github-readme-stats-beta-virid-33.vercel.app/api/top-langs/?username=kevindebenedetti&hide=html,css,smarty,shell,twig,scss,mdx,dockerfile,vue&theme=tokyonight&hide_border=true&layout=donut" /></td>
     <td><img src="https://github-readme-stats-beta-virid-33.vercel.app/api/?username=kevindebenedetti&show_icons=true&theme=tokyonight&hide_border=true" /></td>
