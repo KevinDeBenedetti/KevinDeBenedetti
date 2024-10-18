@@ -11,6 +11,6 @@
   </tr>
 </table>
 
-<a href="#">
-    <img align="center" src="https://github-readme-stats-beta-virid-33.vercel.app/api/wakatime?username=kevindebenedetti&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+    <img src="https://github-readme-stats-beta-virid-33.vercel.app/api/wakatime?username=kevindebenedetti&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
