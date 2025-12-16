@@ -1,6 +1,6 @@
 Output terminal.gif
 Set Theme "GitHub Dark"
-Set FontSize 14
+Set FontSize 16
 Set Width 800
 Set Height 150
 Set CursorBlink true
